@@ -1,0 +1,36 @@
+body{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    width: 1000px;
+    margin: 0px auto;
+}
+#menu_top{
+    background: beige;
+    height: 20px;
+
+}
+#banner {
+    background: orange;
+    width: 1000px  ;
+    height: 500px;    
+}
+
+#main #left {
+    background: rgb(11, 46, 77);
+    width: 800px;
+    float: left;
+
+}
+#main #right{
+    background: black;
+    width: 200px;
+    float: left;
+    min-height: 500px;
+}
+#footer{
+    background: oldlace;
+    height: 50px;
+    width: 1000px;
+    clear: left;
+}
